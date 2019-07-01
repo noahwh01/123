@@ -18,8 +18,11 @@ body {
   text-align: center;
 
 }
-#P1 {
+#P11 {
   text-align: center;
-  font-size: 30px;
-  font-style: normal;
+  font-size: 70px;
+  font-style: italic;
+}
+#Top1 {
+  text-align: center;
 }
