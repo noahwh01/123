@@ -18,11 +18,15 @@ body {
   text-align: center;
 
 }
-#P11 {
+.P11 {
   text-align: center;
-  font-size: 70px;
+  font-size: 50px;
   font-style: italic;
 }
 #Top1 {
+  text-align: center;
+}
+#welcome {
+  font-size: 100px;
   text-align: center;
 }
